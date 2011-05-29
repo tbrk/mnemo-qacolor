@@ -1,6 +1,6 @@
 ##############################################################################
 #
-# qacolor.py (by Timothy Bourke <timbob@bigpond.com>)
+# qacolor.py (by Timothy Bourke <tim@tbrk.org>)
 #
 # derived from custom_tag.py (by Peter Bienstman <Peter.Bienstman@UGent.be>)
 # see also whiteonblack.py   (by Daniel Snider)
